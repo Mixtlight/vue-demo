@@ -13,6 +13,7 @@
       height: 500px;
       line-height: 100px;
       text-align: center;
+      vertical-align: middle;
       font: 900 30px '';
       background: #acf;
       color: #fff;

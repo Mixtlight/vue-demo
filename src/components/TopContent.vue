@@ -1,5 +1,8 @@
 <template>
-  <div class="top">Top</div>
+  <div class="top">
+    Top
+    <TestButton></TestButton>
+  </div>
 </template>
 
 <script>
